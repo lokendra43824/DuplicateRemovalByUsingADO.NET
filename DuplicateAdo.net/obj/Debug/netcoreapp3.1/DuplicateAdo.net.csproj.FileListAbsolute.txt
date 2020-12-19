@@ -1,0 +1,4 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\DuplicateAdo.net\DuplicateAdo.net\bin\Debug\netcoreapp3.1\DuplicateAdo.net.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\DuplicateAdo.net\DuplicateAdo.net\obj\Debug\netcoreapp3.1\DuplicateAdo.net.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\DuplicateAdo.net\DuplicateAdo.net\obj\Debug\netcoreapp3.1\DuplicateAdo.net.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\DuplicateAdo.net\DuplicateAdo.net\obj\Debug\netcoreapp3.1\DuplicateAdo.net.AssemblyInfo.cs
