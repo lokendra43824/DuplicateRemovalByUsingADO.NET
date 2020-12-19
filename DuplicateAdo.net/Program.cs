@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.SqlClient;
 
 namespace DuplicateAdo.net
 {
@@ -7,7 +8,7 @@ namespace DuplicateAdo.net
 
         public void DeleteDuplicates()
         {
-            string connectionString = "Data Source = (LocalDb)\\VenkeyServer;Initial Catalog =AddressBookSystem; Integrated Security = True";
+            string connectionString = @"Data Source = (LocalDB)\MSSQLLocalDB;Initial Catalog =AddressBook; Integrated Security = True";
             SqlConnection connection = new SqlConnection(connectionString);
             try
             {
@@ -59,4 +60,4 @@ namespace DuplicateAdo.net
         }
     }
 }
-}
+
